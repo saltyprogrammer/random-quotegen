@@ -1,6 +1,7 @@
 from random_quotegen import get_quote
 from random_quotegen.quotes import quotes
 
+
 def test_get_quote():
     """
     GIVEN
