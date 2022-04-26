@@ -1,5 +1,8 @@
 [tool.poetry]
 name = "random-quotegen"
+packages = [
+    { include = "random_quotegen" },
+]
 version = "0.1.0"
 description = ""
 authors = ["Jesus Fonseca <jefonbu@gmail.com>"]
